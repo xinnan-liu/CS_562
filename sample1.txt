@@ -1,0 +1,5 @@
+cust prod 1.sum(quant) 2.avg(quant) 3.count(*)
+3
+cust prod
+_ 1.sum(quant) 2.avg(quant) 3.count(*)
+_ 1.state='NY' 2.state='NJ' 3.state='CT'

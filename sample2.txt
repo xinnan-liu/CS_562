@@ -1,0 +1,6 @@
+cust prod 1.quant 1.state
+1
+cust prod
+0.sum(quant) 1.sum(quant) 1.max(quant)
+_ 1.month>5 1.month<9
+1.sum(quant)*3>sum(quant) 1.quant=1.max(quant)

@@ -1,0 +1,5 @@
+cust month 0.avg(quant) 1.avg(quant) 2.avg(quant)
+2
+cust month
+0.avg(quant) 1.avg(quant) 2.avg(quant)
+_ 1.cust=cust 1.month=month 2.cust=cust
